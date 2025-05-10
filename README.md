@@ -1,5 +1,3 @@
-Predicting house prices using advanced regression models — a solution to the Kaggle competition
-
 # 🏡 House Prices Prediction (Kaggle)
 
 This project predicts house sale prices using advanced regression models, focusing on Random Forest and XGBoost. It is based on the [Kaggle House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/) competition.
